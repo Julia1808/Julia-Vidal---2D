@@ -1,6 +1,6 @@
 @import url(styles/header.css);
 :root{
---cor-de-fundo: #9949B4;
+--cor-de-fundo: hsla(345, 82%, 51%, 0.925);
 --cor-cabecalho: #FFFFFF;
 }
 body{
